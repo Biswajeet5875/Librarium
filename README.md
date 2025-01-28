@@ -1,7 +1,5 @@
 # Librarium
  Library Management System
-
-
-owner:
- Bisajeet
- Dinesh
+ owner:
+   Bisajeet
+   Dinesh
