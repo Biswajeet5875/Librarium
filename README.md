@@ -1,5 +1,5 @@
 # Librarium
  Library Management System
  owner:
-   Bisajeet
+   Biswajeet
    Dinesh
